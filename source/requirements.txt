@@ -5,10 +5,11 @@
 matplotlib==3.3.1 ; python_version>="3"
 matplotlib==2.0.1 ; python_version=="2.7"
 cairosvg==2.5.1 # required by sphinxcontrib-svg2pdfconverter[CairoSVG]
-sphinx==2.3.1
+sphinx==3.5.3
 breathe==4.14.1
 sphinx-copybutton==0.3.0
 sphinx-notfound-page
+sphinx-markdown-tables
 sphinxcontrib-blockdiag==2.0.0
 sphinxcontrib-seqdiag==2.0.0
 sphinxcontrib-actdiag==2.0.0
