@@ -20,31 +20,31 @@ XTX 所有产品均符合环保要求：无卤、RoHS2.0、REACH 标准。
 
 |     型号      | 容量  |   电压    |   温度   |        封装        |        描述        | 包装 | 状态 |                            说明书                            |
 | :-----------: | :---: | :-------: | :------: | :----------------: | :----------------: | :--: | :--: | :----------------------------------------------------------: |
-| XT25F02ESOIGU | 2Mbit | 2.7~3.6V  | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=119) |
-| XT25F02ESOIGT | 2Mbit | 2.7~3.6V  | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=118) |
-| XT25F02EDTIGT | 2Mbit | 2.7~3.6V  | -40℃~85℃ |   DFN8 2x3x0.4mm   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=120) |
-| XT25W02ESOIGU | 2Mbit | 1.65~3.6V | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=117) |
-| XT25W02ESOIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=116) |
-| XT25W02EDTIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ |   DFN8 2x3x0.4mm   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=122) |
-| XT25W02EDUIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ | DFN6 1.2x1.2x0.4mm | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=121) |
+| XT25F02ESOIGU | 2Mbit | 2.7~3.6V  | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=119) |
+| XT25F02ESOIGT | 2Mbit | 2.7~3.6V  | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=118) |
+| XT25F02EDTIGT | 2Mbit | 2.7~3.6V  | -40℃~85℃ |   DFN8 2x3x0.4mm   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=120) |
+| XT25W02ESOIGU | 2Mbit | 1.65~3.6V | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=117) |
+| XT25W02ESOIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ |    SOP8 150mil     | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=116) |
+| XT25W02EDTIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ |   DFN8 2x3x0.4mm   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=122) |
+| XT25W02EDUIGT | 2Mbit | 1.65~3.6V | -40℃~85℃ | DFN6 1.2x1.2x0.4mm | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)](http://www.xtxtech.com/download/?AId=121) |
 
 ## 4Mbit
 
 |     型号      | 容量  |   电压    |   温度   |      封装       |        描述        | 包装 | 状态 |            说明书             |
 | :-----------: | :---: | :-------: | :------: | :-------------: | :----------------: | :--: | :--: | :---------------------------: |
-| XT25F04BSOIGU | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   |     Single I/O     | Tube |  MP  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25F04BSOIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   |     Single I/O     | T&R  |  MP  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25F04BDFIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ | DFN8 2x3x0.55mm |     Single I/O     | T&R  |  MP  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25F04DSOIGU | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  ES  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25F04DSOIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  ES  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04DSOIGU | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04DSOIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04DDTIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ | DFN8 2x3x0.4mm  | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04ESOIGU | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04ESOIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| XT25W04EDTIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ | DFN8 2x3x0.4mm  | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| FT25LX04N-RT  | 4Mbit | 1.65~2.1V | -40℃~85℃ | DFN8 2x3x0.4mm  |     Single I/O     | T&R  |  MP  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
-| FT25LX04T-RT  | 4Mbit | 1.65~2.1V | -40℃~85℃ |     TSSOP8      |     Single I/O     | T&R  |  MP  | [![pdf-icon](./source/_static/icon/pdf.png)]() |
+| XT25F04BSOIGU | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   |     Single I/O     | Tube |  MP  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25F04BSOIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   |     Single I/O     | T&R  |  MP  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25F04BDFIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ | DFN8 2x3x0.55mm |     Single I/O     | T&R  |  MP  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25F04DSOIGU | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  ES  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25F04DSOIGT | 4Mbit | 2.7~3.6V  | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  ES  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04DSOIGU | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04DSOIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04DDTIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ | DFN8 2x3x0.4mm  | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04ESOIGU | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | Tube |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04ESOIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ |   SOP8 150mil   | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| XT25W04EDTIGT | 4Mbit | 1.65~3.6V | -40℃~85℃ | DFN8 2x3x0.4mm  | Standard, Dual I/O | T&R  |  QS  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| FT25LX04N-RT  | 4Mbit | 1.65~2.1V | -40℃~85℃ | DFN8 2x3x0.4mm  |     Single I/O     | T&R  |  MP  | [![pdf-icon](./_static/icon/pdf.png)]() |
+| FT25LX04T-RT  | 4Mbit | 1.65~2.1V | -40℃~85℃ |     TSSOP8      |     Single I/O     | T&R  |  MP  | [![pdf-icon](./_static/icon/pdf.png)]() |
 
 # NOR MCP
 
@@ -60,10 +60,10 @@ XTX 所有产品均符合环保要求：无卤、RoHS2.0、REACH 标准。
 
 型号 | 容量 | 电压 | 温度 | 封装 | 描述 | 包装 | 状态 | 说明书 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: 
-XT70F64B64ALGIGA | 64M64M | 2.7~3.6V | -40℃~85℃ | LGA16 6x5mm | 64M NOR + 64M Psram | Tray | QS | [![pdf-icon](./source/_static/icon/pdf.png)]() 
+XT70F64B64ALGIGA | 64M64M | 2.7~3.6V | -40℃~85℃ | LGA16 6x5mm | 64M NOR + 64M Psram | Tray | QS | [![pdf-icon](./_static/icon/pdf.png)]() 
 
 ## 128M64M
 
 型号 | 容量 | 电压 | 温度 | 封装 | 描述 | 包装 | 状态 | 说明书 
 :----: | ------ | :----: | :----: | :----: | :----: | ------ | :----: | :----: 
-XT70F128B64ALGIGA | 128M64M | 2.7~3.6V | -40℃~85℃ | LGA16 6x5mm | 128M NOR + 64M Psram | Tray | QS | [![pdf-icon](./source/_static/icon/pdf.png)]() 
+XT70F128B64ALGIGA | 128M64M | 2.7~3.6V | -40℃~85℃ | LGA16 6x5mm | 128M NOR + 64M Psram | Tray | QS | [![pdf-icon](./_static/icon/pdf.png)]() 
